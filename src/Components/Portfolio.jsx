@@ -49,10 +49,16 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Heart Disease Prediction Using Machine Learning",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project is based on training multiple ml models to accurately predict wether a patient has a heart disease or not",
+    url: "https://www.kaggle.com/code/shazilshaikh/classification-model-developement-with-hp-tuning",
+  },
+  {
+    title: "EDA on Global Terrorism",
+    description:
+      "",
+    url: "https://github.com/0shazil0/My-Data-Science-Projects-Jupyter-Notebooks/blob/main/EDA_Global_Terrorism.ipynb",
   },
 ];
 
